@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		question2_star_wars.txt = question2_star_wars.txt
 		question3_stan_lee.txt = question3_stan_lee.txt
 		question4_spider-verse.txt = question4_spider-verse.txt
+		question5_issue_202.txt = question5_issue_202.txt
 	EndProjectSection
 EndProject
 Global
