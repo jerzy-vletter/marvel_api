@@ -1,0 +1,2618 @@
+story from True Believers: Kirby 100th - Ant-Man and the Wasp (2017) #1
+
+___________________________________________________________________________
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2020 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+  "etag": "a8e29a11824464fa852251256d4152c13c52e478",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1288,
+    "count": 20,
+    "results": [
+      {
+        "id": 88116,
+        "digitalId": 0,
+        "title": "True Believers: Empyre - She-Hulk (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-19T15:35:16-0400",
+        "isbn": "",
+        "upc": "75960609885900111",
+        "diamondCode": "JAN200864",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/88116",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/88116/true_believers_empyre_-_she-hulk_2020_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/True-Believers-Empyre-She-Hulk-1/digital-comic/55252?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/30467",
+          "name": "True Believers: Empyre - She-Hulk (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-03-02T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/5e70f3ec98637",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/5e70f3ec98637",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88116/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5205",
+              "name": "Irving Watanabe",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88116/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+              "name": "She-Hulk (Jennifer Walters)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88116/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/195864",
+              "name": "cover from True Believers: Empyre - She-Hulk (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/195865",
+              "name": "story from True Believers: Empyre - She-Hulk (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88116/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 84092,
+        "digitalId": 0,
+        "title": "True Believers: The Criminally Insane - Absorbing Man (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-24T10:42:36-0500",
+        "isbn": "",
+        "upc": "75960609818700111",
+        "diamondCode": "NOV190785",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/84092",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/84092/true_believers_the_criminally_insane_-_absorbing_man_2020_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-THE-CRIMINALLY-INSANE-ABSORBING-MAN-1-1/digital-comic/54720?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29632",
+          "name": "True Believers: The Criminally Insane - Absorbing Man (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-29T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-06T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5e28c35cd7fce",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5e28c35cd7fce",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84092/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84092/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84092/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185972",
+              "name": "cover from True Believers: Ravencroft - Absorbing Man (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185973",
+              "name": "story from True Believers: Ravencroft - Absorbing Man (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84092/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 84099,
+        "digitalId": 0,
+        "title": "True Believers: The Criminally Insane - Purple Man (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-13T14:23:38-0500",
+        "isbn": "",
+        "upc": "759606098171000111",
+        "diamondCode": "NOV190784",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/84099",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/84099/true_believers_the_criminally_insane_-_purple_man_2020_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-THE-CRIMINALLY-INSANE-PURPLE-MAN-1-1/digital-comic/54568?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29639",
+          "name": "True Believers: The Criminally Insane - Purple Man (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-12-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5e1cc3491504b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5e1cc3491504b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84099/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1636",
+              "name": "Joe Orlando",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84099/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84099/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185986",
+              "name": "cover from True Believers: Ravencroft - Purple Man (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185987",
+              "name": "story from True Believers: Ravencroft - Purple Man (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84099/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 84097,
+        "digitalId": 0,
+        "title": "True Believers: The Criminally Insane - Mandarin  (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-10T11:30:05-0500",
+        "isbn": "",
+        "upc": "75960609814900111",
+        "diamondCode": "NOV190781",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/84097",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/84097/true_believers_the_criminally_insane_-_mandarin_2020_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-THE-CRIMINALLY-INSANE-MANDARIN-1-1/digital-comic/54562?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29637",
+          "name": "True Believers: The Criminally Insane - Mandarin  (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-12-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5e18a02d657a2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5e18a02d657a2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84097/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+              "name": "Don Heck",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84097/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84097/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185982",
+              "name": "cover from True Believers: Ravencroft - Mandarin (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185983",
+              "name": "story from True Believers: Ravencroft - Mandarin (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84097/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 84098,
+        "digitalId": 0,
+        "title": "True Believers: The Criminally Insane - Masters Of Evil (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-03T17:48:46-0500",
+        "isbn": "",
+        "upc": "75960609813200111",
+        "diamondCode": "NOV190778",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/84098",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/84098/true_believers_the_criminally_insane_-_masters_of_evil_2020_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-THE-CRIMINALLY-INSANE-MASTERS-OF-EVIL-1-1/digital-comic/54479?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29638",
+          "name": "True Believers: The Criminally Insane - Masters Of Evil (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-12-09T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/5e0e6939de95f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/5e0e6939de95f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84098/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84098/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84098/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185984",
+              "name": "cover from True Believers: Ravencroft - Masters of Evil (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185985",
+              "name": "story from True Believers: Ravencroft - Masters of Evil (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84098/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 84095,
+        "digitalId": 0,
+        "title": "True Believers: The Criminally Insane - Green Goblin (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-23T16:12:49-0500",
+        "isbn": "",
+        "upc": "75960609811800111",
+        "diamondCode": "AUG199029",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/84095",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/84095/true_believers_the_criminally_insane_-_green_goblin_2020_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-THE-CRIMINALLY-INSANE-GREEN-GOBLIN-1-1/digital-comic/54450?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29635",
+          "name": "True Believers: The Criminally Insane - Green Goblin (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-11-24T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/5e012a4edab01",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/5e012a4edab01",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84095/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+              "name": "Steve Ditko",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84095/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84095/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185978",
+              "name": "cover from True Believers: Ravencroft - Green Goblin (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185979",
+              "name": "story from True Believers: Ravencroft - Green Goblin (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84095/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 83487,
+        "digitalId": 0,
+        "title": "True Believers: Annihilation - Super-Skrull (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-13T17:01:48-0500",
+        "isbn": "",
+        "upc": "75960609786900111",
+        "diamondCode": "OCT190890",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83487",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/83487/true_believers_annihilation_-_super-skrull_2019_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-ANNIHILATION-SUPER-SKRULL-1-1/digital-comic/54445?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29521",
+          "name": "True Believers: Annihilation - Super-Skrull (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-12-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-11-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5df408c10b534",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5df408c10b534",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83487/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83487/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83487/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/184748",
+              "name": "cover from True Believers: Annihilation - Super-Skrull (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/184749",
+              "name": "story from True Believers: Annihilation - Super-Skrull (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83487/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 83486,
+        "digitalId": 0,
+        "title": "True Believers: Annihilation - Super-Adaptoid (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-13T17:00:49-0500",
+        "isbn": "",
+        "upc": "75960609785200111",
+        "diamondCode": "OCT190891",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83486",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/83486/true_believers_annihilation_-_super-adaptoid_2019_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-ANNIHILATION-SUPER-ADAPTOID-1-1/digital-comic/54418?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29520",
+          "name": "True Believers: Annihilation - Super-Adaptoid (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-12-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-11-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/5df408b4ca9b1",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/5df408b4ca9b1",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83486/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+              "name": "Gene Colan",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83486/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83486/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/184746",
+              "name": "cover from True Believers: Annihilation - Super-Adaptoid (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/184747",
+              "name": "story from True Believers: Annihilation - Super-Adaptoid (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83486/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 82356,
+        "digitalId": 0,
+        "title": "Giant-Size Defenders: Facsimile Edition (2019) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-04T12:32:48-0500",
+        "isbn": "",
+        "upc": "75960609739500111",
+        "diamondCode": "OCT190879",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 64,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82356",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/82356/giant-size_defenders_facsimile_edition_2019_3?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/GIANT-SIZE-DEFENDERS-3-FACSIMILE-EDITION-3/digital-comic/53256?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29278",
+          "name": "Giant-Size Defenders: Facsimile Edition (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-12-11T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-11-11T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5de54a1538214",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5de54a1538214",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82356/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+              "name": "Steve Ditko",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+              "name": "Bill Everett",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/144",
+              "name": "Steve Gerber",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/967",
+              "name": "Len Wein",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82356/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011023",
+              "name": "Defenders"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82356/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/182456",
+              "name": "cover from Giant-Size Defenders 3 Facsimile Edition (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/182457",
+              "name": "story from Giant-Size Defenders 3 Facsimile Edition (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82356/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 78567,
+        "digitalId": 0,
+        "title": "True Believers: Hulk - The Other Hulks (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-09-20T21:35:40-0400",
+        "isbn": "",
+        "upc": "75960609638100111",
+        "diamondCode": "JUL190970",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/78567",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/78567/true_believers_hulk_-_the_other_hulks_2019_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-HULK-THE-OTHER-HULKS-1-1/digital-comic/53369?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/28012",
+          "name": "True Believers: Hulk - The Other Hulks (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-09-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-09-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/5d8547eab0fdd",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/5d8547eab0fdd",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78567/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/945",
+              "name": "Larry Lieber",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78567/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78567/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/174154",
+              "name": "cover from True Believers: Hulk - The Other Hulks (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/174155",
+              "name": "story from True Believers: Hulk - The Other Hulks (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78567/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77669,
+        "digitalId": 0,
+        "title": "X-Men Facsimile Edition (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-07-05T17:44:13-0400",
+        "isbn": "",
+        "upc": "75960609478300111",
+        "diamondCode": "MAY190763",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77669",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77669/x-men_facsimile_edition_2019_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-MEN-1-FACSIMILE-EDITION-1/digital-comic/52067?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27828",
+          "name": "X-Men Facsimile Edition (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-07-10T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-06-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5d1bc38c7d194",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5d1bc38c7d194",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77669/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77669/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77669/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/172306",
+              "name": "cover from X-Men 1 Facsimile Edition (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/172307",
+              "name": "story from X-Men 1 Facsimile Edition (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77669/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 75200,
+        "digitalId": 0,
+        "title": "Marvel Tales: Iron Man (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "The gleaming Golden Avenger steals the show as we celebrate the 80th anniversary of the House of Ideas with the era-spanning MARVEL TALES! This anthology series shines a spotlight on fan-favorite characters, features timeless stories and highlights some of our most impressive talent from the past eight decades. First, Iron Man is born in the incredible origin story of Tony Stark, as told by Stan Lee, Larry Lieber and Don Heck in TALES OF SUSPENSE (1959) #39! Then, the unforgettable Pepper Potts enters Tony’s life as his hard-working assistant in TALES OF SUSPENSE (1959) #45! And, in IRON MAN (1968) #150, the team supreme of Bob Layton, David Michelinie and John Romita Jr. tell a Shell-Head story for the ages! Trapped in the time-lost land of King Arthur, Iron Man battles Doctor Doom! ",
+        "modified": "2019-05-10T17:27:21-0400",
+        "isbn": "",
+        "upc": "75960609377900111",
+        "diamondCode": "MAR190840",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 80,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The gleaming Golden Avenger steals the show as we celebrate the 80th anniversary of the House of Ideas with the era-spanning MARVEL TALES! This anthology series shines a spotlight on fan-favorite characters, features timeless stories and highlights some of our most impressive talent from the past eight decades. First, Iron Man is born in the incredible origin story of Tony Stark, as told by Stan Lee, Larry Lieber and Don Heck in TALES OF SUSPENSE (1959) #39! Then, the unforgettable Pepper Potts enters Tony’s life as his hard-working assistant in TALES OF SUSPENSE (1959) #45! And, in IRON MAN (1968) #150, the team supreme of Bob Layton, David Michelinie and John Romita Jr. tell a Shell-Head story for the ages! Trapped in the time-lost land of King Arthur, Iron Man battles Doctor Doom! "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/75200",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/75200/marvel_tales_iron_man_2019_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/MARVEL-TALES-IRON-MAN-1-1/digital-comic/51427?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27069",
+          "name": "Marvel Tales: Iron Man (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-05-15T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-04-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 7.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/5cd4668dcedcb",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/5cd4668dcedcb",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5c76ce1a2204f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75200/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13069",
+              "name": "Jen Bartel",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1289",
+              "name": "Robert Bernstein",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+              "name": "Bob Layton",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/945",
+              "name": "Larry Lieber",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+              "name": "David Michelinie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+              "name": "Don Heck",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13196",
+              "name": "John Romita Jr.",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75200/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75200/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/167239",
+              "name": "cover from Marvel Tales: Iron Man (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/167240",
+              "name": "story from Marvel Tales: Iron Man (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75200/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 75203,
+        "digitalId": 0,
+        "title": "Marvel Tales: Thor (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-03-06T16:33:10-0500",
+        "isbn": "",
+        "upc": "75960609374800111",
+        "diamondCode": "JAN190925",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 88,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/75203",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/75203/marvel_tales_thor_2019_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27072",
+          "name": "Marvel Tales: Thor (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-03-13T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-02-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 7.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5c802c3edff01",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5c802c3edff01",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75203/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13069",
+              "name": "Jen Bartel",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/945",
+              "name": "Larry Lieber",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12516",
+              "name": "Walt Simonson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75203/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75203/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/167245",
+              "name": "cover from Marvel Tales: Thor (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/167246",
+              "name": "story from Marvel Tales: Thor (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75203/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 75198,
+        "digitalId": 0,
+        "title": "Marvel Tales: Fantastic Four (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2018-12-26T17:07:06-0500",
+        "isbn": "",
+        "upc": "75960609371700111",
+        "diamondCode": "NOV180821",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 104,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/75198",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/75198/marvel_tales_fantastic_four_2019_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27067",
+          "name": "Marvel Tales: Fantastic Four (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-01-02T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-12-03T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 7.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5c23ed130f878",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5c23ed130f878",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5bd9d952be36a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75198/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13069",
+              "name": "Jen Bartel",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75198/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75198/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/167235",
+              "name": "cover from Marvel Tales: Fantastic Four (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/167236",
+              "name": "story from Marvel Tales: Fantastic Four (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75198/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 70940,
+        "digitalId": 0,
+        "title": "True Believers: Fantastic Four - The Wedding of Reed & Sue (2018) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Reprinting material from Fantastic Four Annual #3!",
+        "modified": "2018-06-27T18:15:02-0400",
+        "isbn": "",
+        "upc": "75960609067900111",
+        "diamondCode": "MAY180868",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Reprinting material from Fantastic Four Annual #3!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/70940",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/70940/true_believers_fantastic_four_-_the_wedding_of_reed_sue_2018_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25878",
+          "name": "True Believers: Fantastic Four - The Wedding of Reed & Sue (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-07-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-06-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5b3407a1def61",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5b3407a1def61",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/5ae8e06da8ce0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70940/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+              "name": "Vince Colletta",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/962",
+              "name": "Stan Goldberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+              "name": "Artie Simek",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70940/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70940/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/157855",
+              "name": "cover from True Believers: Fantastic Four (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/157856",
+              "name": "story from True Believers: Fantastic Four (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70940/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 70939,
+        "digitalId": 0,
+        "title": "True Believers: Fantastic Four - The Coming of Galactus (2018) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Reprinting Fantastic Four (1961) #48! The Silver Surfer's first appearance!",
+        "modified": "2018-06-27T18:10:59-0400",
+        "isbn": "",
+        "upc": "75960609066200111",
+        "diamondCode": "MAY180867",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Reprinting Fantastic Four (1961) #48! The Silver Surfer's first appearance!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/70939",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/70939/true_believers_fantastic_four_-_the_coming_of_galactus_2018_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25877",
+          "name": "True Believers: Fantastic Four - The Coming of Galactus (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-07-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-06-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5b340788f1422",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5b340788f1422",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5ae8dfdc71294",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70939/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+              "name": "Artie Simek",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+              "name": "Joe Sinnott",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70939/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009683",
+              "name": "Uatu The Watcher"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70939/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/157853",
+              "name": "cover from True Believers: Fantastic Four (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/157854",
+              "name": "story from True Believers: Fantastic Four (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70939/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 70539,
+        "digitalId": 0,
+        "title": "True Believers: Ant-Man - The Incredible Shrinking Doom (2018) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Reprinting Marvel Feature (1971) #4!",
+        "modified": "2018-06-14T16:34:27-0400",
+        "isbn": "",
+        "upc": "75960609054900111",
+        "diamondCode": "APR180782",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Reprinting Marvel Feature (1971) #4!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/70539",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/70539/true_believers_ant-man_-_the_incredible_shrinking_doom_2018_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25786",
+          "name": "True Believers: Ant-Man - The Incredible Shrinking Doom (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-06-20T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-05-28T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5b21870dcc9bd",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5b21870dcc9bd",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/5abd460451100",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70539/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1245",
+              "name": "Mike Friedrich",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/199",
+              "name": "Herb Trimpe",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70539/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70539/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156905",
+              "name": "cover from True Believers: Ant-Man - The Incredible Shrinking Doom (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156906",
+              "name": "story from True Believers: Ant-Man - The Incredible Shrinking Doom (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70539/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 70543,
+        "digitalId": 0,
+        "title": "True Believers: Ant-Man and the Wasp - The Birth of Giant-Man (2018) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Reprinting material from Tales to Astonish (1959) #35 and #49!",
+        "modified": "2018-05-30T18:09:58-0400",
+        "isbn": "",
+        "upc": "75960609051800111",
+        "diamondCode": "APR180779",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Reprinting material from Tales to Astonish (1959) #35 and #49!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/70543",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/70543/true_believers_ant-man_and_the_wasp_-_the_birth_of_giant-man_2018_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25790",
+          "name": "True Believers: Ant-Man and the Wasp - The Birth of Giant-Man (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-06-06T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-05-14T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5b0f17430af19",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5b0f17430af19",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5abd462e93533",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70543/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/962",
+              "name": "Stan Goldberg",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+              "name": "Don Heck",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+              "name": "Sam Rosen",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+              "name": "Artie Simek",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70543/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+              "name": "Wasp"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70543/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156913",
+              "name": "cover from True Believers: Ant-Man and the Wasp - The Birth of Giant-Man (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156914",
+              "name": "story from True Believers: Ant-Man and the Wasp - The Birth of Giant-Man (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70543/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 66963,
+        "digitalId": 0,
+        "title": "True Believers: Carol Danvers (2018) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Reprinting Marvel Super-Heroes (1967) #13! The first appearance of Carol Danvers!",
+        "modified": "2018-04-18T17:51:15-0400",
+        "isbn": "",
+        "upc": "75960609019800111",
+        "diamondCode": "FEB180829",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Reprinting Marvel Super-Heroes (1967) #13! The first appearance of Carol Danvers!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/66963",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/66963/true_believers_carol_danvers_2018_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24221",
+          "name": "True Believers: Carol Danvers (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-04-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-04-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/5ad7aeb5d1ea2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/5ad7aeb5d1ea2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66963/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+              "name": "Gene Colan",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/962",
+              "name": "Stan Goldberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1306",
+              "name": "Paul Reinman",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+              "name": "Sam Rosen",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66963/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009261",
+              "name": "Carol Danvers"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66963/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145081",
+              "name": "cover from True Believers: Carol Danvers (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145082",
+              "name": "story from True Believers: Carol Danvers (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66963/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 64333,
+        "digitalId": 0,
+        "title": "True Believers: Kirby 100th - Ant-Man and The Wasp (2017) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Celebrating 100 Years of Jack Kirby! Reprinting the Ant-Man story from TALES TO ASTONISH (1959) #44.",
+        "modified": "2017-08-22T18:20:45-0400",
+        "isbn": "",
+        "upc": "75960608805800111",
+        "diamondCode": "JUN171039",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Celebrating 100 Years of Jack Kirby! Reprinting the Ant-Man story from TALES TO ASTONISH (1959) #44."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64333",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/64333/true_believers_kirby_100th_-_ant-man_and_the_wasp_2017_1?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23431",
+          "name": "True Believers: Kirby 100th - Ant-Man and The Wasp (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-08-30T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-08-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/599ca0bfa100d",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/599ca0bfa100d",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64333/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1547",
+              "name": "H.e. Huntley",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13100",
+              "name": "Jeph York",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64333/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+              "name": "Wasp"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64333/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/139648",
+              "name": "cover from True Believers: Kirby 100th - Ant-Man and the Wasp (2017) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/139649",
+              "name": "story from True Believers: Kirby 100th - Ant-Man and the Wasp (2017) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64333/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

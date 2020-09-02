@@ -1,0 +1,804 @@
+30
+
+____________________________
+
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2020 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+  "etag": "d97e76295dfe7e2e43106f09d820122bf18e646a",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 4,
+    "count": 4,
+    "results": [
+      {
+        "id": 2063,
+        "title": "Secret Wars (1984 - 1985)",
+        "description": "Marvel's greatest heroes and villains have been brought to a mysterious planet with unlimited power promised to those who can defeat their foes! See Spider-Man, the Avengers, the X-Men and the Fantastic Four battle Doctor Doom, Ultron, Doctor Octopus and more in this classic saga!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2063",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2063/secret_wars_1984_-_1985?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "startYear": 1984,
+        "endYear": 1985,
+        "rating": "",
+        "type": "",
+        "modified": "2013-03-01T14:55:44-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5131073ccbf68",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2063/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11063",
+              "name": "Terry Kevin Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2038",
+              "name": "John Beatty",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom Defalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+              "name": "Bob Layton",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3447",
+              "name": "Michael Zeck",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+              "name": "Joe Rosen",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+              "name": "Christie Scheele",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2056",
+              "name": "Nel Yomtov",
+              "role": "colorist"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 30,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2063/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+              "name": "Absorbing Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011138",
+              "name": "Beyonder"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+              "name": "Doctor Octopus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009390",
+              "name": "Klaw"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009404",
+              "name": "Lizard"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009405",
+              "name": "Lockheed"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+              "name": "Professor X"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 24,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2063/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21588",
+              "name": "Cover #21588",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21589",
+              "name": "The War Begins",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21590",
+              "name": "Against the Beyonder... to the Death!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21591",
+              "name": "Death to the Beyonder",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21592",
+              "name": "Secret Wars (1984) #11",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21593",
+              "name": "...And Dust to Dust!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21594",
+              "name": "Secret Wars (1984) #12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21595",
+              "name": "\"...Nothing to Fear...\"",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21596",
+              "name": "Secret Wars (1984) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21597",
+              "name": "Prisoners of War",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21598",
+              "name": "Secret Wars (1984) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21599",
+              "name": "Tempest Without, Crisis Within",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21600",
+              "name": "Secret Wars (1984) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21601",
+              "name": "Situation: Hopeless",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21602",
+              "name": "Secret Wars (1984) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21603",
+              "name": "The Battle of Four Armies",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21604",
+              "name": "Secret Wars (1984) #6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21605",
+              "name": "A Little Death...",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21606",
+              "name": "Secret Wars (1984) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21607",
+              "name": "Berserker!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2063/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10580",
+              "name": "Secret Wars (1984) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10584",
+              "name": "Secret Wars (1984) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10585",
+              "name": "Secret Wars (1984) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10586",
+              "name": "Secret Wars (1984) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10587",
+              "name": "Secret Wars (1984) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10588",
+              "name": "Secret Wars (1984) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10589",
+              "name": "Secret Wars (1984) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10590",
+              "name": "Secret Wars (1984) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10591",
+              "name": "Secret Wars (1984) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10581",
+              "name": "Secret Wars (1984) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10582",
+              "name": "Secret Wars (1984) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10583",
+              "name": "Secret Wars (1984) #12"
+            }
+          ],
+          "returned": 12
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2063/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+              "name": "Secret Wars"
+            }
+          ],
+          "returned": 1
+        },
+        "next": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3694",
+          "name": "Secret Wars II (1985)"
+        },
+        "previous": null
+      },
+      {
+        "id": 6453,
+        "title": "Secret Wars (2008 - Present)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6453",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/6453/secret_wars_2008_-_present?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "startYear": 2008,
+        "endYear": 2099,
+        "rating": "ALL AGES",
+        "type": "",
+        "modified": "2011-04-29T14:04:00-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bb63f54a0c66",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/6453/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "colorist"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/6453/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/6453/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17065",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17066",
+              "name": "This Secret Love",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38970",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38971",
+              "name": "What If",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38972",
+              "name": "Brave New World",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39069",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39070",
+              "name": "What if the Alien Costume had Possessed Spider-Man",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51123",
+              "name": "Secret Wars 1-12, Thor 383, She-Hulk (2004) 10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51124",
+              "name": "Secret Wars 1-12, Thor 383, She-Hulk (2004) 10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 9
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/6453/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/23037",
+              "name": "Secret Wars (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/6453/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+              "name": "Secret Wars"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 20323,
+        "title": "Secret Wars (2015)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/20323",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/20323/secret_wars_2015?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "startYear": 2015,
+        "endYear": 2015,
+        "rating": "",
+        "type": "collection",
+        "modified": "2016-01-15T13:54:04-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20323/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20323/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20323/stories",
+          "items": [],
+          "returned": 0
+        },
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20323/comics",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20323/events",
+          "items": [],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 19648,
+        "title": "Secret Wars (2015 - 2016)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/19648",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/19648/secret_wars_2015_-_2016?utm_campaign=apiRef&utm_source=74ba65358a1ee0f0db8fec02165aae9d"
+          }
+        ],
+        "startYear": 2015,
+        "endYear": 2016,
+        "rating": "Rated T+",
+        "type": "limited",
+        "modified": "2019-10-01T19:12:40-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/5526e1350977f",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19648/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+              "name": "Simone Bianchi",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10405",
+              "name": "John Tyler Christopher",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+              "name": "Gabriele Dell'otto",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "Vc Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12581",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+              "name": "Jonathan Hickman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5003",
+              "name": "Simone Peruzzi",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+              "name": "Esad Ribic",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11561",
+              "name": "Ive Svorcina",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13579",
+              "name": "Babs Tarr",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19648/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 32,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19648/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116471",
+              "name": "cover from Secret Wars (2015) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116472",
+              "name": "story from Secret Wars (2015) #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116477",
+              "name": "cover from Secret Wars (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116478",
+              "name": "story from Secret Wars (2015) #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116479",
+              "name": "cover from Secret Wars (2015) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116480",
+              "name": "story from Secret Wars (2015) #3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116482",
+              "name": "story from Secret Wars (2015) #4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116483",
+              "name": "cover from Secret Wars (2015) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116484",
+              "name": "story from Secret Wars (2015) #5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116485",
+              "name": "cover from Secret Wars (2015) #6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116486",
+              "name": "story from Secret Wars (2015) #6",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116487",
+              "name": "cover from Secret Wars (2015) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116488",
+              "name": "story from Secret Wars (2015) #7",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116489",
+              "name": "cover from Secret Wars (2015) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116490",
+              "name": "story from Secret Wars (2015) #8",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118329",
+              "name": "cover from Secret Wars (2015) #4 (BIANCHI CONNECTING VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118330",
+              "name": "story from Secret Wars (2015) #4 (BIANCHI CONNECTING VARIANT)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118333",
+              "name": "cover from Secret Wars (2015) #6 (BIANCHI CONNECTING VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118334",
+              "name": "story from Secret Wars (2015) #6 (BIANCHI CONNECTING VARIANT)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118399",
+              "name": "cover from Secret Wars (2015) #4 (CHRISTOPHER ACTION FIGURE VARIANT)",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19648/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/52447",
+              "name": "Secret Wars (2015) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/52450",
+              "name": "Secret Wars (2015) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/52451",
+              "name": "Secret Wars (2015) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/52452",
+              "name": "Secret Wars (2015) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/53522",
+              "name": "Secret Wars (2015) #4 (Bianchi Connecting Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/52453",
+              "name": "Secret Wars (2015) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/52454",
+              "name": "Secret Wars (2015) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/52455",
+              "name": "Secret Wars (2015) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/52456",
+              "name": "Secret Wars (2015) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/59155",
+              "name": "Secret Wars (2015) #8 (Ross 2nd Printing Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57620",
+              "name": "Secret Wars (2015) #9"
+            }
+          ],
+          "returned": 11
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19648/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      }
+    ]
+  }
+}
